@@ -1,3 +1,6 @@
 [submodule "addons/extra/odooce18v2.0-ocamods"]
 	path = addons/extra/oca-modules
 	url = https://https://github.com/jesus-alfonso-moreno/odooce18v2.0-ocamods.git
+[submodule "addons/oca-addons"]
+	path = addons/oca-addons
+	url = https://github.com/jesus-alfonso-moreno/odooce18v2.0-ocamods
